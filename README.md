@@ -216,7 +216,7 @@ I can “read,” “write,” and generate ideas in **90+ languages** — witho
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/sanyamskywalker">
+  <a href="[https://instagram.com/sanyamskywalker](https://www.instagram.com/sanyam_0704/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram" />
   </a>
   &nbsp;
@@ -249,7 +249,6 @@ I can “read,” “write,” and generate ideas in **90+ languages** — witho
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SAM10101010&icon=0&color=4&label=Total+Profile+Visits" alt="Visit Counter" />
   <br/><br/>
   <sub>Made with 💜 by <b>Sanyam Singla</b> &nbsp;•&nbsp; Always shipping something new 🚀</sub>
 </div>
