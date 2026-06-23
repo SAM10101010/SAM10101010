@@ -93,13 +93,48 @@ I can “read,” “write,” and generate ideas in **90+ languages** — witho
 <h3 align="center">🏆 &nbsp;F&nbsp;e&nbsp;a&nbsp;t&nbsp;u&nbsp;r&nbsp;e&nbsp;d&nbsp; &nbsp;P&nbsp;r&nbsp;o&nbsp;j&nbsp;e&nbsp;c&nbsp;t&nbsp;s&nbsp; &nbsp;🏆</h3>
 
 <p align="center">
-  <em>A glimpse of what I've been building — auto-synced with my GitHub.</em>
+  <em>A glimpse of what I've been building — sync live with my GitHub.</em>
 </p>
 
 <div align="center">
-  <a href="https://github.com/SAM10101010">
-    <img src="https://gh-pinned-repos.vercel.app/api/v1/user/SAM10101010?theme=dark&owner=SAM10101010" alt="Pinned Repositories" width="80%" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SAM10101010/RBAC_SOLUTION">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAM10101010&repo=RBAC_SOLUTION&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="RBAC_SOLUTION" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SAM10101010/cu_event_managers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAM10101010&repo=cu_event_managers&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="cu_event_managers" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SAM10101010/comet-browser-clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAM10101010&repo=comet-browser-clone&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="comet-browser-clone" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SAM10101010/engineer_and_customer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAM10101010&repo=engineer_and_customer&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="engineer_and_customer" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SAM10101010/neuronotess">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAM10101010&repo=neuronotess&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="neuronotess" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SAM10101010/smart_health_surveillances">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAM10101010&repo=smart_health_surveillances&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="smart_health_surveillances" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
@@ -155,7 +190,7 @@ I can “read,” “write,” and generate ideas in **90+ languages** — witho
 <h3 align="center">💬 &nbsp;D&nbsp;e&nbsp;v&nbsp; &nbsp;Q&nbsp;u&nbsp;o&nbsp;t&nbsp;e&nbsp; &nbsp;o&nbsp;f&nbsp; &nbsp;t&nbsp;h&nbsp;e&nbsp; &nbsp;D&nbsp;a&nbsp;y&nbsp; &nbsp;💬</h3>
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight&bg_color=1a1b26&quote_glow=&border_color=6a4c93" alt="Random Dev Quote" width="85%" />
+  <img src="https://github-readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=1a1b26&quote_color=e88d67&author_color=c0caf5&accent_color=6a4c93&border_color=6a4c93" alt="Random Dev Quote" width="85%" />
 </div>
 
 <br/>
