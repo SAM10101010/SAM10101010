@@ -216,7 +216,7 @@ I can “read,” “write,” and generate ideas in **90+ languages** — witho
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" />
   </a>
   &nbsp;
-  <a href="[https://instagram.com/sanyamskywalker](https://www.instagram.com/sanyam_0704/)">
+  <a href="https://www.instagram.com/sanyam_0704/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram" />
   </a>
   &nbsp;
