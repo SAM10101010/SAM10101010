@@ -1,79 +1,220 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SAM10101010.SAM10101010" />
+<!-- ===================================================================
+     GITHUB PROFILE README — Sanyam Singla (@SAM10101010)
+     Theme: Tokyo Night (cohesive dark) | Layout: Centered cards
+     =================================================================== -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanyam+Singla!+(SAM);" />
-</h1>
+<!-- =====================  HERO BANNER  ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e88d67,25:6a4c93,50:1982c4,75:6a4c93,100:e88d67&height=220&section=header&text=Sanyam%20Singla&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Coder&descSize=18&descColor=e0e0e0&descAlignY=55&animation=fadeIn" width="100%" />
+</div>
 
-## 💫 **About Me :**  
-
-🔭 **I’m currently working on**  
-Helping individuals bring their creative ideas to life, developing effective learning solutions, and tackling coding challenges.  
-
-👯 **I’m looking to collaborate on**  
-Innovative projects, engaging educational content, and brainstorming groundbreaking ideas.  
-
-🤝 **I’m looking for help with**  
-Understanding your needs better to provide tailored and precise assistance.  
-
-🌱 **I’m currently learning**  
-Enhancing conversational flow and discovering new ways to improve user experiences.  
-
-💬 **Ask me about**  
-Coding, AI tools, productivity strategies, or even interesting trivia.  
-
-⚡ **Fun fact**  
-I can “read,” “write,” and generate ideas in over 90 languages—without taking a break! 😄
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanyam-singla-41673b292)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsingla36@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sanyamskywalker)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Alarming-Project9523) 
-
-
-# 💻 Tech Stack:
-
-
-#### **Programming Languages**
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### **Web Development**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/-Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=white)
-
-#### **Design & Creative Tools**
-![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Krita](https://img.shields.io/badge/-Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-# 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAM10101010&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM10101010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SAM10101010&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3500&pause=800&color=6A4C93&center=true&vCenter=true&width=560&lines=Hi+There!+%F0%9F%91%8B+I'm+Sanyam;I+turn+%F0%9F%92%A1+ideas+into+code;Always+%F0%9F%8C%B1+learning+something+new;Let's+%F0%9F%91%8B+build+together" alt="Typing SVG" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=SAM10101010&label=Profile%20Views&color=6a4c93&style=for-the-badge&labelColor=1a1b26" alt="Profile Views" />
+  <br/><br/>
+  <i>“Turning curiosity into code, and code into experiences worth sharing.”</i>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SAM10101010&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake.svg" />
-</picture>
+<!-- =====================  ABOUT ME  ===================== -->
+<h3 align="center">✨ &nbsp;A&nbsp;b&nbsp;o&nbsp;u&nbsp;t&nbsp; &nbsp;M&nbsp;e&nbsp; &nbsp;✨</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+🔭 **Currently working on**  
+Helping individuals bring their creative ideas to life, building effective learning solutions, and solving coding challenges.
+
+👯 **Looking to collaborate on**  
+Innovative projects, engaging educational content, and brainstorming groundbreaking ideas.
+
+🤝 **Looking for help with**  
+Understanding your needs better to deliver tailored, precise assistance.
+
+    </td>
+    <td width="50%" valign="top">
+
+🌱 **Currently learning**  
+Advanced AI tooling and new ways to elevate the developer & user experience.
+
+💬 **Ask me about**  
+Coding, AI tools, productivity strategies, or just some fun trivia.
+
+⚡ **Fun fact**  
+I can “read,” “write,” and generate ideas in **90+ languages** — without taking a break! 😄
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- =====================  TECH STACK  ===================== -->
+<h3 align="center">🚀 &nbsp;T&nbsp;e&nbsp;c&nbsp;h&nbsp; &nbsp;S&nbsp;t&nbsp;a&nbsp;c&nbsp;k&nbsp; &nbsp;🚀</h3>
+
+<div align="center">
+
+**💻 Programming Languages**
+
+![Languages](https://skillicons.dev/icons?i=cpp,c,java,python,r,js,php&perline=7&theme=light)
+
+**🌐 Web Development**
+
+![Web](https://skillicons.dev/icons?i=html,css,nodejs,nextjs,react&perline=5&theme=light)
+
+**🗄️ Databases & Cloud**
+
+![DB](https://skillicons.dev/icons?i=mongodb&perline=5&theme=light)
+&nbsp;
+<img src="https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=black&labelColor=1a1b26" alt="Neon" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1b26" alt="Firebase" />
+
+**🎨 Design & Creative Tools**
+
+![Design](https://skillicons.dev/icons?i=blender&perline=5&theme=light)
+&nbsp;
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=1a1b26" alt="Adobe" />
+&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=1a1b26" alt="Canva" />
+&nbsp;
+<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B&labelColor=1a1b26" alt="Krita" />
+
+</div>
+
+---
+
+<!-- =====================  FEATURED PROJECTS  ===================== -->
+<h3 align="center">🏆 &nbsp;F&nbsp;e&nbsp;a&nbsp;t&nbsp;u&nbsp;r&nbsp;e&nbsp;d&nbsp; &nbsp;P&nbsp;r&nbsp;o&nbsp;j&nbsp;e&nbsp;c&nbsp;t&nbsp;s&nbsp; &nbsp;🏆</h3>
+
+<p align="center">
+  <em>A glimpse of what I've been building — auto-synced with my GitHub.</em>
+</p>
+
+<div align="center">
+  <a href="https://github.com/SAM10101010">
+    <img src="https://gh-pinned-repos.vercel.app/api/v1/user/SAM10101010?theme=dark&owner=SAM10101010" alt="Pinned Repositories" width="80%" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/SAM10101010?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="All Repos" />
+  </a>
+</p>
+
+---
+
+<!-- =====================  GITHUB STATS  ===================== -->
+<h3 align="center">📊 &nbsp;G&nbsp;i&nbsp;t&nbsp;H&nbsp;u&nbsp;b&nbsp; &nbsp;S&nbsp;t&nbsp;a&nbsp;t&nbsp;s&nbsp; &nbsp;📊</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SAM10101010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b26&title_color=e88d67&icon_color=6a4c93&text_color=c0caf5" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM10101010&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b26&title_color=e88d67&text_color=c0caf5" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAM10101010&theme=tokyonight&hide_border=true&background=1A1B26&ring=6A4C93&fire=E88D67&currStreakLabel=E88D67&sideLabels=C0CAF5&dates=C0CAF5" alt="GitHub Streak" width="70%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- =====================  CONTRIBUTION ACTIVITY GRAPH  ===================== -->
+<h3 align="center">📈 &nbsp;C&nbsp;o&nbsp;n&nbsp;t&nbsp;r&nbsp;i&nbsp;b&nbsp;u&nbsp;t&nbsp;i&nbsp;o&nbsp;n&nbsp; &nbsp;A&nbsp;c&nbsp;t&nbsp;i&nbsp;v&nbsp;i&nbsp;t&nbsp;y&nbsp; &nbsp;📈</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAM10101010&theme=tokyo-night&hide_border=true&area=true&color=6a4c93&line=e88d67&point=1982c4&bg_color=1a1b26" alt="Contribution Activity Graph" width="95%" />
+</div>
+
+---
+
+<!-- =====================  PROFILE TROPHIES  ===================== -->
+<h3 align="center">🏅 &nbsp;T&nbsp;r&nbsp;o&nbsp;p&nbsp;h&nbsp;i&nbsp;e&nbsp;s&nbsp; &nbsp;🏅</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SAM10101010&theme=onestars&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%" />
+</div>
+
+---
+
+<!-- =====================  DEV QUOTE  ===================== -->
+<h3 align="center">💬 &nbsp;D&nbsp;e&nbsp;v&nbsp; &nbsp;Q&nbsp;u&nbsp;o&nbsp;t&nbsp;e&nbsp; &nbsp;o&nbsp;f&nbsp; &nbsp;t&nbsp;h&nbsp;e&nbsp; &nbsp;D&nbsp;a&nbsp;y&nbsp; &nbsp;💬</h3>
+
+<div align="center">
+  <img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight&bg_color=1a1b26&quote_glow=&border_color=6a4c93" alt="Random Dev Quote" width="85%" />
+</div>
+
+<br/>
+
+<!-- =====================  DEV JOKE  ===================== -->
+<h3 align="center">😄 &nbsp;D&nbsp;e&nbsp;v&nbsp; &nbsp;J&nbsp;o&nbsp;k&nbsp;e&nbsp; &nbsp;😄</h3>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=1a1b26&borderColor=6a4c93&quoteColor=e88d67&eq=🤔&emojiColor=1982c4" alt="Random Dev Joke" width="85%" />
+</div>
+
+---
+
+<!-- =====================  CONNECT WITH ME  ===================== -->
+<h3 align="center">🌐 &nbsp;C&nbsp;o&nbsp;n&nbsp;n&nbsp;e&nbsp;c&nbsp;t&nbsp; &nbsp;W&nbsp;i&nbsp;t&nbsp;h&nbsp; &nbsp;M&nbsp;e&nbsp; &nbsp;🌐</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/sanyam-singla-41673b292">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sanyamsingla36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/sanyamskywalker">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/Alarming-Project9523">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1a1b26" alt="Reddit" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SAM10101010">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<!-- =====================  FOOTER  ===================== -->
+<hr/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e88d67,25:6a4c93,50:1982c4,75:6a4c93,100:e88d67&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SAM10101010&icon=0&color=4&label=Total+Profile+Visits" alt="Visit Counter" />
+  <br/><br/>
+  <sub>Made with 💜 by <b>Sanyam Singla</b> &nbsp;•&nbsp; Always shipping something new 🚀</sub>
+</div>
