@@ -207,7 +207,7 @@ Palette: #1a1b26 bg · #e88d67 sunset · #6a4c93 violet · #1982c4 sky · #c0caf
 </td>
 <td width="50%" align="center" valign="top">
 <h3>😄 Dev Joke on the House</h3>
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=1a1b26&borderColor=6a4c93&qColor=e88d67&aColor=c0caf5&codeColor=1982c4" alt="Random Dev Joke" width="100%" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&border=true" alt="Random Dev Joke" width="100%" />
 </td>
 </tr>
 </table>
