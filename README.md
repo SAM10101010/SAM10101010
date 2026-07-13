@@ -219,7 +219,7 @@ Palette: #1a1b26 bg · #e88d67 sunset · #6a4c93 violet · #1982c4 sky · #c0caf
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 
 <div align="center">
-<a href="https://linkedin.com/in/sanyam-singla-41673b292">
+<a href="[https://linkedin.com/in/sanyam-singla-41673b292](https://www.linkedin.com/in/sanyam-41673b292/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" />
 </a>
 &nbsp;
