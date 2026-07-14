@@ -1,0 +1,354 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 1180 610" role="img" aria-label="Premium GitHub profile hero banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="20%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.28"/>
+      <stop offset="60%" stop-color="#7c3aed" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="80%" cy="90%" r="60%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#8b5cf6" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#22d3ee;#10b981;#7c3aed" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#10b981;#7c3aed;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10b981">
+        <animate attributeName="stop-color" values="#10b981;#7c3aed;#22d3ee;#10b981" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <animate attributeName="x1" values="-10%;100%;-10%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;-10%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#10b981;#22d3ee" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#10b981;#22d3ee;#8b5cf6" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10b981">
+        <animate attributeName="stop-color" values="#10b981;#22d3ee;#8b5cf6;#10b981" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <animate attributeName="x1" values="0%;80%;0%" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="80%;0%;80%" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="surfaceGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="panelShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="tinyGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="noiseFilter" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="11" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+      <feComponentTransfer in="mono">
+        <feFuncA type="table" tableValues="0 0.04"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="roundedClip">
+      <rect x="24" y="24" width="1132" height="562" rx="32" ry="32"/>
+    </clipPath>
+    <mask id="scanMask">
+      <rect x="0" y="0" width="1180" height="610" fill="black"/>
+      <rect x="0" y="-120" width="1180" height="120" fill="white">
+        <animate attributeName="y" values="-120;740" dur="4.2s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <rect width="1180" height="610" rx="36" fill="url(#bgGrad)"/>
+  <circle cx="240" cy="126" r="250" fill="url(#glowA)"/>
+  <circle cx="970" cy="500" r="260" fill="url(#glowB)"/>
+  <rect width="1180" height="610" rx="36" fill="white" fill-opacity="0.02"/>
+  <rect width="1180" height="610" rx="36" fill="url(#bgGrad)" mask="url(#scanMask)" opacity="0.26"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="none" stroke="url(#borderGrad)" stroke-width="1.2"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="none" stroke="url(#accentGrad)" stroke-width="1.3" stroke-opacity="0.15" stroke-dasharray="8 780" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="0;1600" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="0" width="1180" height="610" rx="36" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="url(#panelGrad)" filter="url(#panelShadow)"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="url(#surfaceGlow)" opacity="0.22"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="none" stroke="url(#accentGrad)" stroke-opacity="0.18" stroke-width="1.2"/>
+  <rect x="24" y="24" width="1132" height="562" rx="32" fill="none" stroke="url(#accentGrad)" stroke-width="1.2" stroke-opacity="0.08" stroke-dasharray="8 1500">
+    <animate attributeName="stroke-dashoffset" values="0;2000" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="44" y="44" width="460" height="522" rx="28" fill="#0b1220" fill-opacity="0.48" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="520" y="44" width="588" height="522" rx="28" fill="#0b1220" fill-opacity="0.36" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="520" y="44" width="588" height="522" rx="28" fill="url(#surfaceGlow)" opacity="0.16"/>
+  <rect x="44" y="44" width="460" height="522" rx="28" fill="none" stroke="url(#accentGrad)" stroke-opacity="0.16" stroke-width="1.2"/>
+
+  <g clip-path="url(#roundedClip)">
+    <rect x="0" y="0" width="1180" height="610" fill="#ffffff" fill-opacity="0.02" filter="url(#noiseFilter)"/>
+  </g>
+
+  <g transform="translate(72 76)">
+    <text x="0" y="0" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2" opacity="0.85">/dev/hero</text>
+    <rect x="0" y="24" width="132" height="1.2" fill="url(#accentGrad)" opacity="0.5"/>
+  </g>
+
+  <g transform="translate(86 130)" filter="url(#softGlow)">
+    <text x="0" y="18" fill="url(#asciiGrad)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="1.3" opacity="0">
+      <animate attributeName="opacity" values="0;1;1" dur="0.4s" begin="0.1s"/>
+      <animateTransform attributeName="transform" type="translate" values="86 130;86 122;86 130" dur="3.4s" repeatCount="indefinite" additive="sum"/>
+      <animate attributeName="fill" values="url(#asciiGrad)" dur="1s" repeatCount="indefinite"/>
+      <tspan x="0" dy="0">   .-^-.</tspan>
+      <tspan x="0" dy="20">  / 0 0 \</tspan>
+      <tspan x="0" dy="20"> |  .--. |</tspan>
+      <tspan x="0" dy="20"> | (  .. )|</tspan>
+      <tspan x="0" dy="20"> |  `--' |</tspan>
+      <tspan x="0" dy="20">  \  __  /</tspan>
+      <tspan x="0" dy="20">   `-.__.-'</tspan>
+      <tspan x="0" dy="20">  /\  /\  /\</tspan>
+      <tspan x="0" dy="20"> /  \/  \/  \\</tspan>
+      <tspan x="0" dy="20">'-._____.-'</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(86 370)" filter="url(#tinyGlow)">
+    <text x="0" y="0" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.4s"/>
+      <tspan x="0" dy="0">┌─[user@dev]</tspan>
+      <tspan x="0" dy="18">│ ready for build</tspan>
+      <tspan x="0" dy="18">└─▶</tspan>
+    </text>
+    <rect x="84" y="358" width="10" height="14" fill="#22d3ee" opacity="0.9">
+      <animate attributeName="opacity" values="0;1;0;1" dur="0.9s" repeatCount="indefinite" begin="3.2s"/>
+    </rect>
+  </g>
+
+  <g transform="translate(548 108)">
+    <rect x="0" y="0" width="396" height="42" rx="14" fill="#0b1220" fill-opacity="0.72" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle cx="20" cy="21" r="5" fill="#f43f5e"/>
+    <circle cx="38" cy="21" r="5" fill="#f59e0b"/>
+    <circle cx="56" cy="21" r="5" fill="#10b981"/>
+    <text x="92" y="27" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">shell ~/profile</text>
+  </g>
+
+  <text x="548" y="192" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" letter-spacing="1.2" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s"/>
+    Hi 👋 I'm Sanyam
+  </text>
+
+  <g transform="translate(548 227)">
+    <text x="0" y="0" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-dasharray="900 900" stroke-dashoffset="900" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2">
+      <animate attributeName="stroke-dashoffset" values="900;0" dur="1.4s" begin="0.6s"/>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="0.6s"/>
+      Frontend Engineer
+    </text>
+    <text x="0" y="0" fill="url(#accentGrad)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2" opacity="0.92">Frontend Engineer</text>
+  </g>
+
+  <g transform="translate(548 278)">
+    <text x="0" y="0" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-dasharray="900 900" stroke-dashoffset="900" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2">
+      <animate attributeName="stroke-dashoffset" values="900;0" dur="1.4s" begin="1.7s"/>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.7s"/>
+      Full Stack Developer
+    </text>
+    <text x="0" y="0" fill="url(#accentGrad)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2" opacity="0.92">Full Stack Developer</text>
+  </g>
+
+  <g transform="translate(548 329)">
+    <text x="0" y="0" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-dasharray="900 900" stroke-dashoffset="900" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2">
+      <animate attributeName="stroke-dashoffset" values="900;0" dur="1.4s" begin="2.8s"/>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.8s"/>
+      Open Source Contributor
+    </text>
+    <text x="0" y="0" fill="url(#accentGrad)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="600" letter-spacing="1.2" opacity="0.92">Open Source Contributor</text>
+  </g>
+
+  <g transform="translate(548 390)">
+    <text x="0" y="12" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.9s"/>
+      <tspan x="0" dy="0">Location</tspan>
+      <tspan x="120" dy="0">Delhi, India</tspan>
+    </text>
+    <text x="0" y="36" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.35s"/>
+      <tspan x="0" dy="0">Education</tspan>
+      <tspan x="120" dy="0">B.Tech · Computer Science</tspan>
+    </text>
+    <text x="0" y="60" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.8s"/>
+      <tspan x="0" dy="0">Current Focus</tspan>
+      <tspan x="120" dy="0">AI-native products &amp; UI systems</tspan>
+    </text>
+    <text x="0" y="84" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.25s"/>
+      <tspan x="0" dy="0">Portfolio</tspan>
+      <tspan x="120" dy="0">sanyam.dev</tspan>
+    </text>
+    <text x="0" y="108" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.7s"/>
+      <tspan x="0" dy="0">Email</tspan>
+      <tspan x="120" dy="0">hello@sanyam.dev</tspan>
+    </text>
+  </g>
+
+  <text x="548" y="530" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="1.2" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="6.25s"/>
+    Skills
+  </text>
+
+  <g transform="translate(548 548)">
+    <g filter="url(#softGlow)">
+      <rect x="0" y="0" width="82" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="82" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="41" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">React</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.4s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(92 0)">
+      <rect x="0" y="0" width="96" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="96" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="48" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Next.js</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.2s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(198 0)">
+      <rect x="0" y="0" width="90" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="90" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="45" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Node.js</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.6s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(298 0)">
+      <rect x="0" y="0" width="110" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="110" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="55" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">TypeScript</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.3s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+
+  <g transform="translate(548 583)">
+    <g filter="url(#softGlow)">
+      <rect x="0" y="0" width="92" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="92" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="46" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Tailwind</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.1s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(102 0)">
+      <rect x="0" y="0" width="76" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="76" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="38" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Python</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.7s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(188 0)">
+      <rect x="0" y="0" width="72" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="72" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="36" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Docker</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.5s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(270 0)">
+      <rect x="0" y="0" width="84" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="84" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="42" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Postgres</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.25s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+
+  <g transform="translate(548 628)">
+    <g filter="url(#softGlow)">
+      <rect x="0" y="0" width="58" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="58" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="29" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">AWS</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.4s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(68 0)">
+      <rect x="0" y="0" width="56" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="56" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="28" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Git</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.2s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(134 0)">
+      <rect x="0" y="0" width="64" height="26" rx="13" fill="#0b1220" fill-opacity="0.82" stroke="url(#accentGrad)" stroke-opacity="0.65"/>
+      <rect x="0" y="0" width="64" height="26" rx="13" fill="url(#pillGrad)"/>
+      <text x="32" y="17" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="0.8">Figma</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3.55s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+
+  <g transform="translate(548 670)">
+    <g filter="url(#softGlow)">
+      <circle cx="0" cy="0" r="19" fill="#0b1220" fill-opacity="0.86" stroke="url(#accentGrad)" stroke-opacity="0.7"/>
+      <circle cx="0" cy="0" r="19" fill="url(#pillGrad)"/>
+      <path d="M0-8.4c-3.8 0-6.8 3.1-6.8 6.9 0 3 2 5.6 4.8 6.5v-2.4c-1.4-.5-2.4-1.8-2.4-3.2 0-2 1.7-3.6 3.8-3.6 2.1 0 3.8 1.6 3.8 3.6 0 1.4-.9 2.7-2.4 3.2v2.4c2.8-.9 4.8-3.5 4.8-6.5 0-3.8-3-6.9-6.8-6.9z" fill="#f8fafc" transform="translate(0 0)"/>
+      <animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.3s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(54 0)">
+      <circle cx="0" cy="0" r="19" fill="#0b1220" fill-opacity="0.86" stroke="url(#accentGrad)" stroke-opacity="0.7"/>
+      <circle cx="0" cy="0" r="19" fill="url(#pillGrad)"/>
+      <path d="M-6.2-7.8c1.1-1 2.6-1.6 4.3-1.6 3 0 5.4 2.4 5.4 5.4 0 2.7-2 5-4.6 5.5l-.6 1.7h5.4l-.8 2.1h-6.3l1.9-5.3c-1.3-.3-2.2-1.3-2.2-2.6 0-1.4 1.1-2.5 2.6-2.5.9 0 1.7.4 2.2 1.1l1.3-1.6c-.9-.9-2.2-1.4-3.6-1.4-2.1 0-3.9 1.3-4.7 3.2l1.6 1.1z" fill="#f8fafc"/>
+      <animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.1s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(108 0)">
+      <circle cx="0" cy="0" r="19" fill="#0b1220" fill-opacity="0.86" stroke="url(#accentGrad)" stroke-opacity="0.7"/>
+      <circle cx="0" cy="0" r="19" fill="url(#pillGrad)"/>
+      <path d="M-7 7.2l2.1-6.4h2.5l1.4 4.3 1.4-4.3h2.5l2.1 6.4h-2.4l-1.2-4-1.2 4h-2.4l-1.2-4-1.2 4z" fill="#f8fafc"/>
+      <animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.5s" repeatCount="indefinite" additive="sum"/>
+    </g>
+    <g filter="url(#softGlow)" transform="translate(162 0)">
+      <circle cx="0" cy="0" r="19" fill="#0b1220" fill-opacity="0.86" stroke="url(#accentGrad)" stroke-opacity="0.7"/>
+      <circle cx="0" cy="0" r="19" fill="url(#pillGrad)"/>
+      <path d="M-6.2-7.4c2.2 0 3.9 1.7 3.9 3.8 0 2.1-1.7 3.8-3.9 3.8-2.1 0-3.9-1.7-3.9-3.8 0-2.1 1.8-3.8 3.9-3.8zm0 1.6c-1.2 0-2.2 1-2.2 2.2 0 1.2 1 2.2 2.2 2.2 1.2 0 2.2-1 2.2-2.2 0-1.2-1-2.2-2.2-2.2zm3.6 5.1h2.7v6.5h-2.7z" fill="#f8fafc"/>
+      <animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.2s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+
+  <g transform="translate(548 725)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="6.7s"/>
+    <circle cx="0" cy="0" r="3.4" fill="#22d3ee"/>
+    <circle cx="18" cy="0" r="3.4" fill="#8b5cf6"/>
+    <circle cx="36" cy="0" r="3.4" fill="#10b981"/>
+    <circle cx="54" cy="0" r="3.4" fill="#f8fafc" opacity="0.9"/>
+  </g>
+
+  <g opacity="0.12">
+    <circle cx="126" cy="272" r="4" fill="#f8fafc">
+      <animate attributeName="cy" values="272;286;272" dur="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="384" cy="216" r="3" fill="#22d3ee">
+      <animate attributeName="cy" values="216;232;216" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0.85;0.25" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="410" cy="332" r="2.4" fill="#10b981">
+      <animate attributeName="cx" values="410;426;410" dur="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

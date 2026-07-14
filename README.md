@@ -6,7 +6,11 @@ Palette: #1a1b26 bg · #e88d67 sunset · #6a4c93 violet · #1982c4 sky · #c0caf
 
 <!-- =====================  HERO BANNER  ===================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e88d67,25:6a4c93,50:1982c4,75:6a4c93,100:e88d67&height=230&section=header&text=Sanyam%20Singla&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20Enthusiast%20%E2%9C%A6%20Creative%20Coder&descSize=20&descColor=c0caf5&descAlignY=56&animation=fadeIn&stroke=1a1b26&strokeWidth=1" width="100%" alt="Header Banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+  <img src="./dark.svg" width="100%" alt="Premium developer profile hero banner" />
+</picture>
 </div>
 
 <!-- =====================  TYPING SVG + PROFILE VIEWS  ===================== -->
